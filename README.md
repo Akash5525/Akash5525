@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash5525" alt="akash5525" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/akash_1419/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/akash_1419/?logo=twitter&style=for-the-badge" alt="https://twitter.com/akash_1419/" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akash_1419/" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/akash_1419/?logo=twitter&style=for-the-badge" alt="https://twitter.com/akash_1419/" /></a> </p>
 
 - 🔭 I’m currently working on [MotaBhaiChillPoint](https://motabhaichillpoint.com/)
 
