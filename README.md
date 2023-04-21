@@ -1,3 +1,4 @@
+![logo](https://github.com/Akash5525/Akash5525/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
 
