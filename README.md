@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
 
-<img align="center" alt="coading" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akash5525&label=Profile%20views&color=0e75b6&style=flat" alt="akash5525" /> </p>
+<img align="right" alt="coading" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash5525&label=Profile%20views&color=0e75b6&style=flat" alt="akash5525" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash5525" alt="akash5525" /></a> </p>
 
